@@ -1,0 +1,3 @@
+class shopping{
+String age; String gender;
+}
