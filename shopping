@@ -1,3 +1,4 @@
 class shopping{
 String age; String gender;
 }
+What data will you be other than gender and age?
